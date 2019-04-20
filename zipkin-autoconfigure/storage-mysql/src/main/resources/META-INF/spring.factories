@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+zipkin2.autoconfigure.storage.mysql.ZipkinMySQLStorageAutoConfiguration,\
+zipkin2.autoconfigure.storage.mysql.TracingZipkinMySQLStorageAutoConfiguration
